@@ -1,7 +1,3 @@
 export default function Home() {
-  return (
-    <>
-      <h2>login home</h2>
-    </>
-  );
+  return <main>로그인 모달</main>;
 }
